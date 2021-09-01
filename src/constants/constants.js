@@ -37,10 +37,14 @@ export const projects = [
   },
 ];
 
-export const TimeLineData = [
-  { year: 2017, text: 'Started my journey', },
-  { year: 2018, text: 'Worked as a freelance developer', },
-  { year: 2019, text: 'Founded JavaScript Mastery', },
-  { year: 2020, text: 'Shared my projects with the world', },
-  { year: 2021, text: 'Started my own platform', },
+export const TimeLineData = [ 
+  { year: 2019, text: 'Started online studies on YouTube with Mosh', },
+  { year: 2020, text: 'Applied to AmaliTech Training Academy ', },
+  { year: 2021, text: 'Completed the Training in June and Started working as a Front End & iOS Developer in July', }
+];
+
+export const data = [
+  { number: 20, text: 'Open Source Projects'},
+  { number: 2, text: 'Github Followers', },
+  { number: 3, text: 'Github Stars', }
 ];

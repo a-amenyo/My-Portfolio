@@ -7,8 +7,10 @@ import { List, ListContainer, ListItem, ListParagraph, ListTitle } from './Techn
 
 const Technologies = () =>  (
   <Section id="tech" >
+    <br />
      <SectionDivider/>
-     <SectionTitle>Tecnologies</SectionTitle>
+     <br />
+     <SectionTitle>Technologies</SectionTitle>
      <SectionText>
        I have worked with a range of technologies in web and mobile development.
       
@@ -31,7 +33,7 @@ const Technologies = () =>  (
          <ListContainer>
          <ListTitle>iOs App Development </ListTitle>
          <ListParagraph>
-             Experience with Swift.
+             Experience with SwiftUI.
            </ListParagraph>
          </ListContainer>
        </ListItem>
